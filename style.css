@@ -1,0 +1,23 @@
+
+h1
+{
+
+color :  #f40e0e ; 
+text-decoration:#eacc33; 
+
+
+}
+
+a:visited {
+
+   color:pink ;
+
+}
+.grid 
+{
+
+display:flex ;
+flex-wrap: wrap ; 
+justify-content:space-evenly;
+flex-direction: row ;
+}
